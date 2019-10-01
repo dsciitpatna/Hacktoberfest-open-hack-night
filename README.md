@@ -1,2 +1,3 @@
-# Hacktoberfest-open-hack-night
-Write hacktoberfest in your native language
+### Write hacktoberfest in your native language
+
+Hacktoberfest
