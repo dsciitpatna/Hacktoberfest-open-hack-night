@@ -1,5 +1,6 @@
 # Hacktoberfest-open-hack-night 2020
-Write hacktoberfest in your native language
+Write hacktoberfest in your native language or local language
+
 
 haktoberfest
 हैक्टूबरउत्सव
